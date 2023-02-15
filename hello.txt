@@ -2,3 +2,4 @@ Hello, World!.
 Menambahkan baris 1
 Menambahkan baris 2
 Menambahkan baris 3
+console.log("Hello, World!")
