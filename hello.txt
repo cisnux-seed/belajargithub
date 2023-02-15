@@ -1,9 +1,3 @@
 Hello, World!.
 
 Saya menambahkan hal baru.
-
-print('Hello World')
-console.log('Hello World');
-cout << "Hello World!" << endl;
-System.out.println("Hello World!");
-printf("Hello World");
