@@ -6,4 +6,4 @@ print('Hello World!')
 console.log('Hello World!');
 cout << "Hello World!" << endl;
 System.out.println("Hello World!");
->>>>>>> parent of c7bf8b0 (Merge branch 'main' into patch-2)
+printf("Hello World");
